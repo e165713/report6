@@ -1,5 +1,7 @@
-package jp.ac.uryukyu.ie.e165713;
+package jp.ac.uryuyu.ie.e165713;
 
+import jp.ac.uryukyu.ie.e165713.Enemy;
+import jp.ac.uryukyu.ie.e165713.Hero;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
